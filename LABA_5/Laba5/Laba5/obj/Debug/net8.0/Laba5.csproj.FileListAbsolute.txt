@@ -1,0 +1,28 @@
+/Users/daniil/Desktop/Projects/LABA 5/Laba5/Laba5/bin/Debug/net8.0/Laba5
+/Users/daniil/Desktop/Projects/LABA 5/Laba5/Laba5/bin/Debug/net8.0/Laba5.deps.json
+/Users/daniil/Desktop/Projects/LABA 5/Laba5/Laba5/bin/Debug/net8.0/Laba5.runtimeconfig.json
+/Users/daniil/Desktop/Projects/LABA 5/Laba5/Laba5/bin/Debug/net8.0/Laba5.dll
+/Users/daniil/Desktop/Projects/LABA 5/Laba5/Laba5/bin/Debug/net8.0/Laba5.pdb
+/Users/daniil/Desktop/Projects/LABA 5/Laba5/Laba5/obj/Debug/net8.0/Laba5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniil/Desktop/Projects/LABA 5/Laba5/Laba5/obj/Debug/net8.0/Laba5.AssemblyInfoInputs.cache
+/Users/daniil/Desktop/Projects/LABA 5/Laba5/Laba5/obj/Debug/net8.0/Laba5.AssemblyInfo.cs
+/Users/daniil/Desktop/Projects/LABA 5/Laba5/Laba5/obj/Debug/net8.0/Laba5.csproj.CoreCompileInputs.cache
+/Users/daniil/Desktop/Projects/LABA 5/Laba5/Laba5/obj/Debug/net8.0/Laba5.dll
+/Users/daniil/Desktop/Projects/LABA 5/Laba5/Laba5/obj/Debug/net8.0/refint/Laba5.dll
+/Users/daniil/Desktop/Projects/LABA 5/Laba5/Laba5/obj/Debug/net8.0/Laba5.pdb
+/Users/daniil/Desktop/Projects/LABA 5/Laba5/Laba5/obj/Debug/net8.0/Laba5.genruntimeconfig.cache
+/Users/daniil/Desktop/Projects/LABA 5/Laba5/Laba5/obj/Debug/net8.0/ref/Laba5.dll
+/Users/daniil/Desktop/Projects/LABS/LABA_5/Laba5/Laba5/bin/Debug/net8.0/Laba5
+/Users/daniil/Desktop/Projects/LABS/LABA_5/Laba5/Laba5/bin/Debug/net8.0/Laba5.deps.json
+/Users/daniil/Desktop/Projects/LABS/LABA_5/Laba5/Laba5/bin/Debug/net8.0/Laba5.runtimeconfig.json
+/Users/daniil/Desktop/Projects/LABS/LABA_5/Laba5/Laba5/bin/Debug/net8.0/Laba5.dll
+/Users/daniil/Desktop/Projects/LABS/LABA_5/Laba5/Laba5/bin/Debug/net8.0/Laba5.pdb
+/Users/daniil/Desktop/Projects/LABS/LABA_5/Laba5/Laba5/obj/Debug/net8.0/Laba5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniil/Desktop/Projects/LABS/LABA_5/Laba5/Laba5/obj/Debug/net8.0/Laba5.AssemblyInfoInputs.cache
+/Users/daniil/Desktop/Projects/LABS/LABA_5/Laba5/Laba5/obj/Debug/net8.0/Laba5.AssemblyInfo.cs
+/Users/daniil/Desktop/Projects/LABS/LABA_5/Laba5/Laba5/obj/Debug/net8.0/Laba5.csproj.CoreCompileInputs.cache
+/Users/daniil/Desktop/Projects/LABS/LABA_5/Laba5/Laba5/obj/Debug/net8.0/Laba5.dll
+/Users/daniil/Desktop/Projects/LABS/LABA_5/Laba5/Laba5/obj/Debug/net8.0/refint/Laba5.dll
+/Users/daniil/Desktop/Projects/LABS/LABA_5/Laba5/Laba5/obj/Debug/net8.0/Laba5.pdb
+/Users/daniil/Desktop/Projects/LABS/LABA_5/Laba5/Laba5/obj/Debug/net8.0/Laba5.genruntimeconfig.cache
+/Users/daniil/Desktop/Projects/LABS/LABA_5/Laba5/Laba5/obj/Debug/net8.0/ref/Laba5.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XeNIidHY89k=",
+  "success": true,
+  "projectFilePath": "/Users/daniil/Desktop/Projects/LABS/LABA_5/Laba5/Laba5/Laba5.csproj",
+  "expectedPackageFiles": [
+    "/Users/daniil/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/daniil/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/daniil/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.11/microsoft.netcore.app.host.osx-arm64.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
