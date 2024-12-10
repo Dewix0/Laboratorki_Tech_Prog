@@ -13,7 +13,7 @@ public class DecoratorTests
 
         // Act
         var result = message.GetMessage();
-
+        
         // Assert
         Assert.Equal("Hello, World!!!", result);
     }
