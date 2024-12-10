@@ -5,18 +5,23 @@ from colorama import Fore, Style
 
 
 def main():
-    # Создаем базу данных и таблицы
+
+
+    print(f"{Fore.GREEN}Пересоздание таблиц....{Style.RESET_ALL}")
+
     Base.metadata.drop_all(bind=engine)
     Base.metadata.create_all(bind=engine)
 
-    # Создаем сессию
+    print(f"{Fore.GREEN}Выполнено{Style.RESET_ALL}")
+    print("")
+    
     session = SessionLocal()
 
     try:
-        # Создание пользователей
-        user1 = User(username='Alice')
-        user2 = User(username='Bob')
-        session.add_all([user1, user2])
+        user1 = User(username='Daniil')
+        user2 = User(username='Pasha')
+        user3 = User(username='StariyBog')
+        session.add_all([user1, user2,user3])
         print(f"{Fore.GREEN}Committing users...{Style.RESET_ALL}")
         session.commit()
 
@@ -24,7 +29,8 @@ def main():
 
         # Добавление заказа для пользователя
         order1 = Order(product_name='Laptop', product_count=1, user_id=user1.id)
-        session.add(order1)
+        order2 = Order(product_name='Лазеры из глаз',product_count=2,user_id=user3.id)
+        session.add_all([order1,order2])
         print(f"{Fore.GREEN}Committing order...{Style.RESET_ALL}")
         session.commit()
         print(f"{Fore.GREEN}Committing ended...{Style.RESET_ALL}")
