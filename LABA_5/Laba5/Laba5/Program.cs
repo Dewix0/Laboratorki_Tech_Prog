@@ -69,4 +69,4 @@ namespace Laba5
             Console.WriteLine("=== Конец работы ===");
         }
     }
-}
+}   
